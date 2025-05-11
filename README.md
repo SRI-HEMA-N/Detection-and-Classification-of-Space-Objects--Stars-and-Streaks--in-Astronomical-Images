@@ -54,7 +54,7 @@ Recommended resolution: 4418 × 4418
 
 ## 📤 Output
 
-Outputs are saved to outputs/ automatically.
+Outputs are saved to CNN_Annotated file automatically.
 
 For each image:
 
